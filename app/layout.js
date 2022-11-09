@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
           name="viewport"
           content="width=device-width, initial-scale=1.0"
         ></meta>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
       </head>
       <body className="py-8 px-12 bg-gray-300 min-h-screen flex flex-col">
         <header className="mb-12">
