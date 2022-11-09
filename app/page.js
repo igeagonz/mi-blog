@@ -14,10 +14,11 @@ export default function Home() {
           className="rounded-full mx-auto my-2"
           src={IgnacioPersonalPhoto}
           height={300}
+          alt="photo of ignacio"
         />
       </section>
 
-      <section className="border-2 border-black bg-black rounded-md p-2">
+      <section className="border-2 border-black bg-black rounded-md p-2 w-full md:w-1/2 mx-auto">
         <p className="text-white">
           <span className="text-green-500">~ mini bio:</span> software engineer
           based out of austin, tx. fluent in both english and spanish.
