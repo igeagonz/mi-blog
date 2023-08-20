@@ -1,9 +1,6 @@
 export default function HardSkills() {
   const hardSkills = [
     "write clean, efficient, and scalable code",
-    "software architecture decision making",
-    "data structures and algorithms",
-    "compiled and interpreted software languages",
     "object orientated and functional programming",
     "mvc framework knowledge",
     "ci/cd",
@@ -22,8 +19,8 @@ export default function HardSkills() {
   ];
 
   const languages = [
-    "javascipt",
     "ruby",
+    "javascipt",
     "python",
     "java",
     "elixir",

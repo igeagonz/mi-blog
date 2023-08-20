@@ -7,7 +7,7 @@ export default function SoftSkills() {
     "helping others succeed",
     "agile methodology",
     "prioritization and time management",
-    "continous learner",
+    "continuous learner",
     "efficient collaboration with UI/UX desisgner",
   ];
 

@@ -21,9 +21,18 @@ export default function Home() {
       <section className="border-2 border-black bg-black rounded-md p-2 w-full md:w-1/2 mx-auto">
         <p className="text-white">
           <span className="text-green-500">~ mini bio:</span> software engineer
-          based out of austin, tx. fluent in both english and spanish.
-          passionate about my family, technology, travel, and culture. enjoy
-          music, youtube, fitness, good food, beer, and cocktails.
+          @{" "}
+          <a
+            href="https://vantage.sh"
+            target="_blank"
+            className="hover:underline"
+            style={{ color: "#9C25C7" }}
+          >
+            Vantage
+          </a>
+          . based out of nyc 🗽. fluent in both english and spanish. passionate
+          about my family, technology, travel, and culture. enjoy music,
+          youtube, fitness, good food, beer, occasional cocktail.
         </p>
       </section>
 

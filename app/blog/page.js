@@ -1,3 +1,3 @@
 export default function Blog() {
-  return <h1>Coming soon... ⏱️</h1>;
+  return <h1>Coming (not so) soon... ⏱️</h1>;
 }
